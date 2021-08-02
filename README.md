@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SharjeelSIqbal
+- 👋 Hi, I’m @SharjeelSIqbal and I'm a web developer
 - 👀 I’m interested in expanding career opportunities
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently a learning new technologies to expand my knowledge in web development
 - 💞️ I love exploring new ideas and testing them out.
 - 📫 You can reach me at sharjeelsiqbal@gmail.com
 
