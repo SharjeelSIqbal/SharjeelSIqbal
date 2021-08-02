@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SharjeelSIqbal
-- 👀 I’m interested in expanding my career opportunities
+- 👀 I’m interested in expanding career opportunities
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me an email to sharjeelsiqbal@gmail.com
+- 💞️ I love exploring new ideas and testing them out.
+- 📫 You can reach me at sharjeelsiqbal@gmail.com
 
 <!---
 SharjeelSIqbal/SharjeelSIqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
