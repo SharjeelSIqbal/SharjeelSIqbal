@@ -4,7 +4,8 @@
 - 💞️ I love branching out and reading code
 - 📫 You can reach me at sharjeelsiqbal@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharjeelSiqbal&show_icons=true&theme=dracula)
+![Sharjeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharjeelSiqbal&show_icons=true&theme=dracula) [![Sharjeel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SharjeelSiqbal)](https://github.com/SharjeelSiqbal/github-readme-stats)
+
 
 
 <!---
