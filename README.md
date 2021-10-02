@@ -1,4 +1,5 @@
-![Web Dev Banner](https://user-images.githubusercontent.com/50930123/135698193-4256bde6-3131-492a-9176-6f9958a5fb6a.jpg)
+
+![Simple Work LinkedIn Banner](https://user-images.githubusercontent.com/50930123/135698526-69c9da00-8a33-438f-a1c2-f184ccf6cab2.png)
 
 ![Sharjeel's gitHub stats](https://github-readme-stats.vercel.app/api?username=SharjeelSiqbal&theme=dracula&show_icons=true) 
 
