@@ -1,5 +1,7 @@
+![Web Dev Banner](https://user-images.githubusercontent.com/50930123/135698193-4256bde6-3131-492a-9176-6f9958a5fb6a.jpg)
 
 ![Sharjeel's gitHub stats](https://github-readme-stats.vercel.app/api?username=SharjeelSiqbal&theme=dracula&show_icons=true) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharjeelSiqbal&theme=dracula&layout=compact&line_height=10)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi there! 👋
